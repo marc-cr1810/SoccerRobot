@@ -1,0 +1,3 @@
+[submodule "Programming/C++/ArduinoRobotEditor"]
+	path = Programming/C++/ArduinoRobotEditor
+	url = https://github.com/marc-cr1810/ArduinoRobotEditor.git
